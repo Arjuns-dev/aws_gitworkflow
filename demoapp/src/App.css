@@ -9,7 +9,7 @@
 .container{
   min-height: 100vh;
   min-width: 100vwg;
-  background-color: red;
+  background-color: blueviolet;
 }
 
 @media (prefers-reduced-motion: no-preference) {
